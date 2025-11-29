@@ -1,0 +1,12 @@
+Data Scientist:Statistical Modeling;Data Storytelling
+Software Engineer:Java/HTML/CSS;Problem Solving
+Robotics Engineer:Control Systems;Teamwork
+Cybersecurity Analyst:Networking;Critical Thinking
+AI Engineer:Deep Learning;Communication
+Machine Learning Engineer:Deep Learning;Communication
+Application Developer:Java/HTML/CSS;Problem Solving
+Full Stack Web Developer:JavaScript;Teamwork
+Automation Engineer:Control Systems;Teamwork
+IoT (Internet of Things) Engineer:Embedded Systems;Critical Thinking
+UX Designer:Figma;Empathy
+Marketing Specialist:SEO;Creativity
